@@ -10,9 +10,9 @@
 </head>
 <body>
 
-<h1> Welcome ${name}</h1>
-<h1> Email address is ${email} </h1>
-<h1> password is ${password} </h1>
+<h1> Welcome ${user.name}</h1>
+<h1> Email address is ${user.email} </h1>
+<h1> password is ${user.password} </h1>
 
 </body>
 </html>
